@@ -1,0 +1,61 @@
+{
+  "uid" : "8ec4251410ddfd03",
+  "name" : "TestCalc.test_div_float[fivePoint]",
+  "fullName" : "test_Calc.TestCalc.test_div_float[fivePoint]",
+  "historyId" : "84e28b0fe3329685054e824467f3f34e",
+  "time" : {
+    "start" : 1613288548757,
+    "stop" : 1613288548770,
+    "duration" : 13
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "tangqiandeMacBook-Air.local"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "2032-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_Calc"
+  }, {
+    "name" : "testClass",
+    "value" : "test_Calc"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestCalc.test_div_float[fivePoint]"
+  }, {
+    "name" : "package",
+    "value" : "test_Calc"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8ec4251410ddfd03.json",
+  "parameterValues" : [ ]
+}

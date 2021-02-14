@@ -1,0 +1,109 @@
+{
+  "uid" : "912b25ae63726102",
+  "name" : "test_add[positive]",
+  "fullName" : "test_Calc.TestCalc#test_add",
+  "historyId" : "d3dd577e8eb33b1a063b095f3bcad4ba",
+  "time" : {
+    "start" : 1613288942281,
+    "stop" : 1613288942282,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "get_add_int_data_with_fixture",
+    "time" : {
+      "start" : 1613288942280,
+      "stop" : 1613288942280,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "get_instance",
+    "time" : {
+      "start" : 1613288942280,
+      "stop" : 1613288942281,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "get_instance::0",
+    "time" : {
+      "start" : 1613288942282,
+      "stop" : 1613288942283,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_Calc"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestCalc"
+  }, {
+    "name" : "host",
+    "value" : "tangqiandeMacBook-Air.local"
+  }, {
+    "name" : "thread",
+    "value" : "2156-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_Calc"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "get_add_int_data_with_fixture",
+    "value" : "[-9, 10, 1]"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "fa5845bb9eee560a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613288905350,
+        "stop" : 1613288905350,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "912b25ae63726102.json",
+  "parameterValues" : [ "[-9, 10, 1]" ]
+}

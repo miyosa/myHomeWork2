@@ -1,0 +1,109 @@
+{
+  "uid" : "ec893306406f4f65",
+  "name" : "test_div_float[divMinus]",
+  "fullName" : "test_Calc.TestCalc#test_div_float",
+  "historyId" : "64e978a90748d741a82499f655e367bd",
+  "time" : {
+    "start" : 1613288942399,
+    "stop" : 1613288942400,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "get_instance",
+    "time" : {
+      "start" : 1613288942398,
+      "stop" : 1613288942398,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "get_div_float_data_with_fixture",
+    "time" : {
+      "start" : 1613288942397,
+      "stop" : 1613288942398,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "get_instance::0",
+    "time" : {
+      "start" : 1613288942401,
+      "stop" : 1613288942401,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_Calc"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestCalc"
+  }, {
+    "name" : "host",
+    "value" : "tangqiandeMacBook-Air.local"
+  }, {
+    "name" : "thread",
+    "value" : "2156-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_Calc"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "get_div_float_data_with_fixture",
+    "value" : "[-10, -100000, 0.0001]"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b3f38efe07b2528c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1613288905554,
+        "stop" : 1613288905555,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ec893306406f4f65.json",
+  "parameterValues" : [ "[-10, -100000, 0.0001]" ]
+}

@@ -1,0 +1,99 @@
+{
+  "uid" : "36a463b3d65fb18c",
+  "name" : "test_div_float[minus]",
+  "fullName" : "test_Calc.TestCalc#test_div_float",
+  "historyId" : "ee645bd54c34f00845ba404ab58382c0",
+  "time" : {
+    "start" : 1613288905572,
+    "stop" : 1613288905572,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "get_div_float_data_with_fixture",
+    "time" : {
+      "start" : 1613288905564,
+      "stop" : 1613288905565,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  }, {
+    "name" : "get_instance",
+    "time" : {
+      "start" : 1613288905566,
+      "stop" : 1613288905566,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "get_instance::0",
+    "time" : {
+      "start" : 1613288905574,
+      "stop" : 1613288905575,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_Calc"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestCalc"
+  }, {
+    "name" : "host",
+    "value" : "tangqiandeMacBook-Air.local"
+  }, {
+    "name" : "thread",
+    "value" : "2144-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_Calc"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "get_div_float_data_with_fixture",
+    "value" : "[-1, 10000000, -1e-07]"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "36a463b3d65fb18c.json",
+  "parameterValues" : [ "[-1, 10000000, -1e-07]" ]
+}

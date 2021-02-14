@@ -1,0 +1,246 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1613288548172" stop="1613288548897">
+  <name>test_Calc</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1613288548172" status="passed" stop="1613288548186">
+      <name>TestCalc.test_add[small]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="2032-MainThread"/>
+        <label name="host" value="tangqiandeMacBook-Air.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1613288548211" status="passed" stop="1613288548220">
+      <name>TestCalc.test_add[big]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="2032-MainThread"/>
+        <label name="host" value="tangqiandeMacBook-Air.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1613288548254" status="passed" stop="1613288548265">
+      <name>TestCalc.test_add[addZero]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="2032-MainThread"/>
+        <label name="host" value="tangqiandeMacBook-Air.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1613288548282" status="passed" stop="1613288548296">
+      <name>TestCalc.test_add[minus]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="2032-MainThread"/>
+        <label name="host" value="tangqiandeMacBook-Air.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1613288548323" status="passed" stop="1613288548335">
+      <name>TestCalc.test_add[addMinus]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="2032-MainThread"/>
+        <label name="host" value="tangqiandeMacBook-Air.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1613288548362" status="passed" stop="1613288548370">
+      <name>TestCalc.test_add[positive]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="2032-MainThread"/>
+        <label name="host" value="tangqiandeMacBook-Air.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1613288548393" status="passed" stop="1613288548403">
+      <name>TestCalc.test_add_float[onePoint]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="2032-MainThread"/>
+        <label name="host" value="tangqiandeMacBook-Air.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1613288548431" status="passed" stop="1613288548441">
+      <name>TestCalc.test_add_float[twoPoint]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="2032-MainThread"/>
+        <label name="host" value="tangqiandeMacBook-Air.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1613288548471" status="passed" stop="1613288548485">
+      <name>TestCalc.test_add_float[senvenPoint]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="2032-MainThread"/>
+        <label name="host" value="tangqiandeMacBook-Air.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1613288548510" status="passed" stop="1613288548516">
+      <name>TestCalc.test_add_float[tenPoint]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="2032-MainThread"/>
+        <label name="host" value="tangqiandeMacBook-Air.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1613288548534" status="passed" stop="1613288548545">
+      <name>TestCalc.test_div[small]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="2032-MainThread"/>
+        <label name="host" value="tangqiandeMacBook-Air.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1613288548570" status="passed" stop="1613288548584">
+      <name>TestCalc.test_div[big]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="2032-MainThread"/>
+        <label name="host" value="tangqiandeMacBook-Air.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1613288548614" status="passed" stop="1613288548628">
+      <name>TestCalc.test_div[divMinus]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="2032-MainThread"/>
+        <label name="host" value="tangqiandeMacBook-Air.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1613288548655" status="passed" stop="1613288548665">
+      <name>TestCalc.test_div[minus]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="2032-MainThread"/>
+        <label name="host" value="tangqiandeMacBook-Air.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1613288548687" status="passed" stop="1613288548701">
+      <name>TestCalc.test_div_zero[divZero]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="2032-MainThread"/>
+        <label name="host" value="tangqiandeMacBook-Air.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1613288548725" status="passed" stop="1613288548734">
+      <name>TestCalc.test_div_float[onePoint]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="2032-MainThread"/>
+        <label name="host" value="tangqiandeMacBook-Air.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1613288548757" status="passed" stop="1613288548770">
+      <name>TestCalc.test_div_float[fivePoint]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="2032-MainThread"/>
+        <label name="host" value="tangqiandeMacBook-Air.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1613288548797" status="passed" stop="1613288548809">
+      <name>TestCalc.test_div_float[divMinus]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="2032-MainThread"/>
+        <label name="host" value="tangqiandeMacBook-Air.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1613288548833" status="passed" stop="1613288548849">
+      <name>TestCalc.test_div_float[minus]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="2032-MainThread"/>
+        <label name="host" value="tangqiandeMacBook-Air.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1613288548885" status="passed" stop="1613288548897">
+      <name>TestCalc.test_div_float[irrational]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="2032-MainThread"/>
+        <label name="host" value="tangqiandeMacBook-Air.local"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

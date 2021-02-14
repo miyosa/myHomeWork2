@@ -1,0 +1,4 @@
+Sun, 14 Feb 2021 17:03:29 __init__.py[line:28] INFO item.name : test_encode[张三]
+Sun, 14 Feb 2021 17:03:29 __init__.py[line:29] INFO item._nodeid : tests/test1.py::test_encode[张三]
+Sun, 14 Feb 2021 17:03:29 __init__.py[line:28] INFO item.name : test_encode[李四]
+Sun, 14 Feb 2021 17:03:29 __init__.py[line:29] INFO item._nodeid : tests/test1.py::test_encode[李四]
